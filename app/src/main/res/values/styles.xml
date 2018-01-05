@@ -1,0 +1,16 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+
+    <style name="ToolBarTheme" parent="AlertDialog.AppCompat.Light">
+        <item name="android:textColorPrimary">@color/textColorWhite</item>  <!--Text Color of Toolbar Title -->
+        <item name="android:textColorSecondary">@color/textColorWhite</item> <!--Color of Overflow Menu (3 DOTS icon) and color of Naviagtion Drawer Icon-->
+    </style>
+</resources>
