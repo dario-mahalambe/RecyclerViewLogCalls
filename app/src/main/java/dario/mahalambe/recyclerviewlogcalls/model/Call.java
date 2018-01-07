@@ -6,7 +6,6 @@ package dario.mahalambe.recyclerviewlogcalls.model;
 
 public class Call {
 
-
     private String name;
 
     private String timeOfCall;
@@ -25,7 +24,6 @@ public class Call {
         this.callType = callType;
         this.letterImage = letterImage;
     }
-
 
 
     public String getName() {
